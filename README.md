@@ -1,4 +1,4 @@
-# Phasematchig
-Phasematchig of Spontaneous parametric down-conversion of light
+# Phase_Screen
+Calculation of Phase Screens simulating atmospheric turbulence
 
-![Phasematchig](https://user-images.githubusercontent.com/116585464/220107164-cea4c577-a35a-47bf-9f4a-cd490d89151b.jpg)
+![PhaseScreen](https://user-images.githubusercontent.com/116585464/220108627-f2897cd8-4151-4145-b962-9649d892ebf2.jpg)
